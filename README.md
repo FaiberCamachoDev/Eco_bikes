@@ -42,5 +42,6 @@ EcoRider es una aplicación de consola en **Python** para gestionar el alquiler 
 
 ---
 
-#**Developed by:**
-##**Julian Aponte, Andres hidrobo, Mateo Martinez, Faiber Camacho**
+# **Developed by:**
+
+## **Julian Aponte, Andres hidrobo, Mateo Martinez, Faiber Camacho**
